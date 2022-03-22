@@ -6,8 +6,10 @@ HTML, CSS, JS y PHP.(CONEXION =XAMPP Y PHPMYADMIN)
 Jathinson Meneses
 
 # Estudiantes:
-2182054 Laura Hernandez
-2182070 Sebastian Vanegas
+
++2182054 Laura Hernandez
+
++2182071 Sebastian Vanegas
 
 # Grupo: J1 2021-2
 
