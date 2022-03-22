@@ -1,14 +1,14 @@
-#ProyectoMVC_WEB_2021-2
+# ProyectoMVC_WEB_2021-2
 
-#Herramientas usadas: 
+# Herramientas usadas: 
 HTML, CSS, JS y PHP.(CONEXION =XAMPP Y PHPMYADMIN)
-#Docente: 
+# Docente: 
 Jathinson Meneses
 
-#Estudiantes:
+# Estudiantes:
 2182054 Laura Hernandez
 2182070 Sebastian Vanegas
 
-#Grupo: J1 2021-2
+# Grupo: J1 2021-2
 
 UNIVERSIDAD INDUSTRIAL DE SANTANDER
